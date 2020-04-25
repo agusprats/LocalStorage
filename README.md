@@ -5,7 +5,7 @@ The user can create, eliminate and see a non limitated number of tweets in a lis
 
 The tweets are located in a Local Storage<br/>
 
-<img src=""><hr/>
+<img src="LocalStorage.png"><hr/>
 
 Credit:
 Exercise made on UDEMY JS course with Juan Pablo De la torre Valdez.
